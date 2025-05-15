@@ -1,4 +1,5 @@
-## README for Task 1: Custom ROS2 Message Communication
+# GahanAI_task1
+Custom ROS2 Message Communication
 
 ### Directory Structure
 ```
@@ -10,7 +11,7 @@ GahanAI_task1/
     └── training/                   # ROS 2 Python nodes
         └── training/
             ├── publisher.py       # Publishes Person message every 1 second
-            └── subscriber.py      # Subscribes and prints Person data
+            └── subscriber.py      
 ```
 
 ### How to Run the program
