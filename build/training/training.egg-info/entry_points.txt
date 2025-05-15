@@ -1,0 +1,3 @@
+[console_scripts]
+publisher = training.publisher:main
+subscriber = training.subscriber:main
